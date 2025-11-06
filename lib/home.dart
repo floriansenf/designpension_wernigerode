@@ -37,7 +37,7 @@ class Home extends StatelessWidget{
                       onTap: () {
                         Navigator.push(
                           context,
-                          MaterialPageRoute(builder: (context) => HomePage( url: 'https://rrraumfahrtzentrum.de/',)),
+                          MaterialPageRoute(builder: (context) => HomePage( url: 'https://www.designpensionen-wernigerode.de/',)),
                         );
                       },
                       child: Container(
